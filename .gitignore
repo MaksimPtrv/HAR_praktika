@@ -1,0 +1,6 @@
+.venv/
+.validation_env/
+.ipynb_checkpoints/
+__pycache__/
+data/UCI HAR Dataset/
+*.html
